@@ -1,0 +1,1 @@
+# resirank-map-data
